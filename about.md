@@ -14,6 +14,8 @@ TornadoBot ist ein vielseitiger Bot mit mehreren nützlichen Funktionen:
 
 - **Premium:** TornadoBot bietet auch Premium-Funktionen für Nutzer, die zusätzliche Vorteile und exklusive Inhalte genießen möchten.
 
-Lade Ihn gerne [Hier](https://discord.com/api/oauth2/authorize?client_id=1180515707486740531&permissions=543179664471&scope=bot+applications.commands) ein.
-Unseren Support-Server Findest du [Hier](https://discord.gg/PDe67Bcpyt)
-Und voten kannst du [Hier](https://top.gg/bot/1180515707486740531/vote)
+- **Levelsystem (Bald):** In naher Zukunft wird TornadoBot ein funktionierendes Levelsystem einführen, um die Engagement und Interaktion der Benutzer auf dem Server zu steigern.
+
+[**Bot Hinzufügen**](https://discord.com/api/oauth2/authorize?client_id=1180515707486740531&permissions=543179664471&scope=bot+applications.commands) 
+[**Support-Server**](https://discord.gg/PDe67Bcpyt) 
+[**Voten**](https://top.gg/bot/1180515707486740531/vote)
