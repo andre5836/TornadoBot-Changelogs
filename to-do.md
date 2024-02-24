@@ -1,7 +1,8 @@
 - [x] Ticket System
 - [ ] Alle Befehle auch auf Englisch machen,
-- [ ] /cookies,
+- [ ] **/cookies**,
 - [ ] Weitere Befehle im **Economy System**,
 - [ ] Level System,
 - [ ] Neues Feedback System,
 - [ ] Coinflip Befehl
+- [ ] **/rules** beheben
