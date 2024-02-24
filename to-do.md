@@ -6,3 +6,5 @@
 - [ ] Neues Feedback System,
 - [ ] Coinflip Befehl
 - [ ] **/rules** beheben
+- [ ] **/feedback**
+- [ ] **/notiz** Befehl
