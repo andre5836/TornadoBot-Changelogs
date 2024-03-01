@@ -2,9 +2,9 @@
 - [ ] Alle Befehle auch auf Englisch machen,
 - [ ] **/cookies**,
 - [ ] Weitere Befehle im **Economy System**,
-- [ ] Level System,
-- [ ] Neues Feedback System,
-- [ ] Coinflip Befehl
-- [ ] **/rules** beheben
-- [ ] **/feedback**
+- [x] Level System,
+- [x] Neues Feedback System,
+- [x] **/rules** beheben
+- [x] **/feedback**
 - [ ] **/notiz** Befehl
+- [ ] Alle Befehle auf Polnisch machen(Aufgrund von Viele Polnische Nutzer im Bot)
