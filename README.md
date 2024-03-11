@@ -1,4 +1,4 @@
 # TornadoBot Changelogs
 
-- Hier findest du immer die neuesten Updates vom TornadoBot.
-- Alle Informationen hier stammen DIREKT vom Entwickler!
+- Here you'll always find the latest updates from TornadoBot.
+- All information here comes DIRECTLY from the developer!
