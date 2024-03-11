@@ -1,21 +1,21 @@
-**TornadoBot Übersicht:**
+**TornadoBot Overview:**
 
-TornadoBot ist ein vielseitiger Bot mit mehreren nützlichen Funktionen:
+TornadoBot is a versatile bot with several useful features:
 
-- **Information:** TornadoBot liefert umfassende Informationen zu verschiedenen Themen auf Abruf.
-  
-- **Moderation:** Mit leistungsstarken Moderationsfunktionen können Administratoren problemlos ihren Server verwalten.
+- **Information:** TornadoBot provides comprehensive information on various topics on demand.
 
-- **Fun:** TornadoBot sorgt für Unterhaltung mit einer Vielzahl von lustigen Befehlen und Spielen.
+- **Moderation:** With powerful moderation features, administrators can easily manage their server.
 
-- **Gewinnspiel (Bald):** Bald wird TornadoBot ein Gewinnspielsystem einführen, um spannende Wettbewerbe auf Ihrem Server zu veranstalten.
+- **Fun:** TornadoBot brings entertainment with a variety of fun commands and games.
 
-- **Ticket (Bald):** In Kürze wird TornadoBot eine Ticketfunktionalität bieten, um Support-Anfragen und andere Kommunikationen effizient zu verwalten.
+- **Giveaways (Coming Soon):** TornadoBot will soon introduce a giveaway system to host exciting contests on your server.
 
-- **Premium:** TornadoBot bietet auch Premium-Funktionen für Nutzer, die zusätzliche Vorteile und exklusive Inhalte genießen möchten.
+- **Ticket (Coming Soon):** Soon, TornadoBot will offer ticket functionality to efficiently manage support requests and other communications.
 
-- **Levelsystem (Bald):** In naher Zukunft wird TornadoBot ein funktionierendes Levelsystem einführen, um die Engagement und Interaktion der Benutzer auf dem Server zu steigern.
+- **Premium:** TornadoBot also offers premium features for users who want to enjoy additional benefits and exclusive content.
 
-[**Bot Hinzufügen**](https://discord.com/api/oauth2/authorize?client_id=1180515707486740531&permissions=543179664471&scope=bot+applications.commands) 
-[**Support-Server**](https://discord.gg/PDe67Bcpyt) 
-[**Voten**](https://top.gg/bot/1180515707486740531/vote)
+- **Level System Update (Since March 10, 2024):** TornadoBot has implemented a new Level System, starting from March 10, 2024, to enhance user engagement and interaction on the server. Enjoy the benefits of this exciting addition!
+
+[**Add Bot**](https://discord.com/api/oauth2/authorize?client_id=1180515707486740531&permissions=543179664471&scope=bot+applications.commands) 
+[**Support Server**](https://discord.gg/PDe67Bcpyt) 
+[**Vote**](https://top.gg/bot/1180515707486740531/vote)
