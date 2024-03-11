@@ -1,45 +1,44 @@
-# Terms Of Service
-Willkommen bei TornadoBot, erstellt von **__.andre53__**
-Die Nutzung dieses Bots unterliegt den folgenden Bedingungen: 
+# **Terms Of Service**
 
-Durch die Nutzung des Bots akzeptieren Sie **automatisch** die geltenden Nutzungsbedingungen.
+Welcome to TornadoBot, created by **__.andre53__**. The use of this bot is subject to the following terms and conditions:
 
-## **1. Nutzung des Bots:**
-  ### 1.1. Die Verwendung von TornadoBot setzt die Zustimmung zu diesen Nutzungsbedingungen voraus.
-  ### 1.2. Benutzer sind verpflichtet, sich an die deutschen Gesetze zu halten. Der Inhaber haftet in keiner Weise für entstandene Schäden durch Nutzer des Bots.
-  ### 1.3. Der Bot-Inhaber behält sich jederzeit das Recht vor, Personen den Zugang zum Bot zu verweigern oder sie zu bannen, ohne Angabe von Gründen.
-  ### 1.4. Die Nutzung des Bots erfolgt auf eigene Verantwortung der Benutzer.
+By using the bot, you **automatically** accept the applicable terms of use.
 
-## **2. Speicherung von Informationen:**
-  ### 2.1. TornadoBot kann Informationen wie Nachrichtenverläufe, Benutzeraktivitäten und Einstellungen speichern, um personalisierte XP und Statistiken für die Benutzer zu generieren und anzuzeigen.
-  ### 2.2. Die gespeicherten Daten werden vertraulich behandelt und ausschließlich für interne Zwecke verwendet, um die Funktionalität des Bots zu verbessern sowie die Benutzererfahrung zu optimieren.
- ###  2.3. Benutzer haben das Recht, auf Anfrage Auskunft über die sie betreffenden gespeicherten Daten zu erhalten und können eine Löschung dieser Daten beantragen.
+## **1. Use of the Bot:**
+  ### 1.1. The use of TornadoBot implies agreement to these terms of use.
+  ### 1.2. Users are required to comply with German laws. The owner is not liable for any damages caused by bot users.
+  ### 1.3. The bot owner reserves the right to deny access or ban individuals from the bot at any time without providing reasons.
+  ### 1.4. Users use the bot at their own risk.
 
-## **3. Verhaltensrichtlinien:**
-  ### 3.1. Benutzer sind verpflichtet, den Bot gemäß den Discord-Richtlinien sowie den geltenden Gesetzen und Vorschriften zu nutzen.
- ###  3.2. Jegliche unangemessenen oder missbräuchlichen Handlungen werden nicht toleriert.
- ###  3.3. Inhalte, die gegen geltendes Recht, Ethik oder die guten Sitten verstoßen, sind untersagt.
+## **2. Information Storage:**
+  ### 2.1. TornadoBot may store information such as message histories, user activities, and settings to generate and display personalized XP and statistics for users.
+  ### 2.2. Stored data is treated confidentially and used exclusively for internal purposes to improve bot functionality and optimize user experience.
+ ###  2.3. Users have the right to request information about stored data concerning them and may request deletion of this data.
 
-## **4. Fehlermeldungen:**
-### 4.1. Benutzer stimmen zu, jeden Fehler oder jede Fehlfunktion des Bots unverzüglich dem Bot-Inhaber zu melden.
-###  4.2. Diese Meldungen dienen dazu, Fehler schnell zu identifizieren und den Bot effizient zu reparieren.
-###   4.3. Bei der Fehlermeldung sind detaillierte Informationen zum Vorfall und gegebenenfalls Screenshots hilfreich.
+## **3. Behavioral Guidelines:**
+  ### 3.1. Users are obliged to use the bot in accordance with Discord policies, as well as applicable laws and regulations.
+ ###  3.2. Any inappropriate or abusive actions will not be tolerated.
+ ###  3.3. Content violating applicable laws, ethics, or good manners is prohibited.
 
-## **5. Änderungen der Nutzungsbedingungen:**
-###   5.1. Wir behalten uns das Recht vor, diese Nutzungsbedingungen jederzeit zu ändern.
-###   5.2. Benutzer werden über Änderungen informiert, indem sie auf unserer Website oder über andere angemessene Kommunikationswege darauf hingewiesen werden.
+## **4. Bug Reports:**
+### 4.1. Users agree to report any errors or malfunctions of the bot to the bot owner promptly.
+###  4.2. These reports aim to identify and efficiently repair errors in the bot.
+###   4.3. Detailed information about the incident and, if possible, screenshots are helpful when reporting bugs.
 
-## **6. Haftungsausschluss:**
- ###  6.1. TornadoBot und sein Entwickler .andre53 haften nicht für Schäden, Verluste oder Konsequenzen, die durch die Nutzung des Bots entstehen könnten.
- ###  6.2. Die Haftung für grobe Fahrlässigkeit oder Vorsatz bleibt hiervon unberührt.
+## **5. Changes to Terms of Use:**
+###   5.1. We reserve the right to change these terms of use at any time.
+###   5.2. Users will be informed of changes through our website or other appropriate communication channels.
 
-## **7. Kontakt:**
- ###  7.1. Bei Fragen, Bedenken oder Rückmeldungen zu diesen Nutzungsbedingungen können Sie sich an unseren Support-Server wenden. Dieser ist wie folgt zu erreichen über Discord : [Support](https://discord.gg/AM3qH7u3DA).
+## **6. Disclaimer:**
+ ###  6.1. TornadoBot and its developer, .andre53, are not liable for damages, losses, or consequences arising from the use of the bot.
+ ###  6.2. Liability for gross negligence or intent remains unaffected.
 
-## **8. Discord-Richtlinien:**
- ###  8.1. Zusätzlich zu diesen Nutzungsbedingungen sind Benutzer verpflichtet, sich an die Discord-Nutzungsbedingungen zu halten.
-###   8.2. Bei Verstößen gegen die Discord-Richtlinien behält sich der Bot-Inhaber das Recht vor, entsprechende Maßnahmen zu ergreifen, einschließlich des Ausschlusses von der Nutzung des Bots.
+## **7. Contact:**
+ ###  7.1. For questions, concerns, or feedback regarding these terms of use, please contact our support server. You can reach it on Discord: [Support](https://discord.gg/AM3qH7u3DA).
 
+## **8. Discord Policies:**
+ ###  8.1. In addition to these terms of use, users are obligated to adhere to Discord's terms of service.
+###   8.2. In case of violations of Discord policies, the bot owner reserves the right to take appropriate measures, including exclusion from using the bot.
 
 > [!IMPORTANT]
-> ### Diese Nutzungsbedingungen können jederzeit aktualisiert werden. Benutzer werden über Änderungen informiert, und es liegt in ihrer Verantwortung, regelmäßig die aktuellen Nutzungsbedingungen zu überprüfen.
+> ### These terms of use may be updated at any time. Users will be informed of changes, and it is their responsibility to regularly review the current terms of use.
