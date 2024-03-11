@@ -5,5 +5,5 @@
 - [x] Neues Feedback System,
 - [x] **/rules** beheben
 - [x] **/feedback**
-- [×] **/notiz** Befehl
+- [X] **/notiz** Befehl
 - [ ] Alle Befehle auf Polnisch machen(Aufgrund von Viele Polnische Nutzer im Bot)
