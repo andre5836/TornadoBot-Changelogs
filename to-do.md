@@ -1,9 +1,3 @@
-- [x] Ticket System
-- [x] Alle Befehle auch auf Englisch machen,
-- [x] Weitere Befehle im **Economy System**,
-- [x] Level System,
-- [x] Neues Feedback System,
-- [x] **/rules** beheben
-- [x] **/feedback**
-- [X] **/notiz** Befehl
 - [ ] Alle Befehle auf Polnisch machen(Aufgrund von Viele Polnische Nutzer im Bot)
+- [ ] Achievements System
+- [ ] Logs für Moderationsbefehle
